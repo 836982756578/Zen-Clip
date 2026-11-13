@@ -1,0 +1,6 @@
+bin/
+obj/
+*.user
+*.suo
+crash.log
+zenclip_config.json
